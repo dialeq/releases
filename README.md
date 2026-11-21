@@ -1,6 +1,6 @@
 # DIALeQ releases
 
-**DIALeQ** is a fast, local-first API testing tool from [Jana Software Lab](https://dialeq.janasoftwarelab.in).
+**DIALeQ** is a fast, local-first API testing tool from [Jana Software Lab](https://products.janasoftwarelab.in/dialeq/).
 _Connect. Test. Deliver._
 
 This repository holds the files that go with each DIALeQ release but can't ship inside the app's store package: the source code of the open-source components we're required to offer, and the third-party notices for that version. It doesn't contain DIALeQ's own source code.
@@ -23,13 +23,13 @@ Each DIALeQ version has a release here tagged `v<version>` (for example `v0.12.1
 - **`THIRD_PARTY_NOTICES.txt`**: the licences and notices of the open-source software that version of DIALeQ includes. The same file is inside the installed app.
 - **`git-source-<git release>.tar`**: the complete source code of the Git build bundled with DIALeQ, named after that Git build's release (not DIALeQ's version). Git is licensed under the GNU General Public License v2.0, and this archive is the corresponding source we provide under it.
 
-The notices inside the app name the release they belong to. The website's [licences page](https://dialeq.janasoftwarelab.in/legal/licences/) links here as well.
+The notices inside the app name the release they belong to. The website's [licences page](https://products.janasoftwarelab.in/legal/licences/) links here as well.
 
 ## Licences and legal
 
-- DIALeQ itself is proprietary software, licensed under its End User Licence Agreement, which is shown when you install the app and published on the [website](https://dialeq.janasoftwarelab.in).
+- DIALeQ itself is proprietary software, licensed under its End User Licence Agreement, which is shown when you install the app and published on the [website](https://products.janasoftwarelab.in/legal/eula/).
 - Third-party components are licensed under their own terms, as listed in each release's `THIRD_PARTY_NOTICES.txt`.
-- Privacy: [dialeq.janasoftwarelab.in/legal/privacy](https://dialeq.janasoftwarelab.in/legal/privacy/).
+- Privacy: [products.janasoftwarelab.in/legal/privacy](https://products.janasoftwarelab.in/legal/privacy/).
 
 ## Support
 
